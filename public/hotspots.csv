@@ -13,8 +13,8 @@ node,title,camera,type,description
 12_AntiIceFluidPlacard,Anti-Ice Fluid Placard,Cam_12_AntiIceFluidPlacard,callout,"Anti-icing fluid tanks are marked with a distinct Type IV placard. Proper identification is critical during fluid loading and application. Operators must confirm all placards are present, legible, and match the corresponding tank contents."
 13_TelescopingNozzle,Telescoping Nozzle,Cam_13_TelescopingNozzle,callout,"The Vestergaard Beta features a telescoping spray nozzle integrated into the boom system. This design allows the operator to maintain a close and controlled distance from the aircraft surface, enhancing spray precision and reducing fluid waste. The nozzle can extend as part of the boom’s reach up to 63 feet."
 14_BoomSystem,Boom System,Cam_14_BoomSystem,callout,"The Vestergaard Beta is equipped with a three-part boom system, including a telescoping center section. It provides a maximum nozzle height of up to 63 feet (model dependent), allowing operators to access high and hard-to-reach areas of the aircraft safely and efficiently."
-Cam_15_BasketView,Basket Interior,Cam_15_BasketView,camera,
-Cam_16_CabinView,Cabin Interior,Cam_16_CabinView,camera,
+Cam_15_BasketView,Operators Cabin,Cam_15_BasketView,camera,
+Cam_16_CabinView,Chassis Cabin,Cam_16_CabinView,camera,
 Cam_17_ExteriorView,Exterior,Cam_17_ExteriorView,camera,
 18_BoomContrlF1,F1,Cam_18_BoomContrlF1,callout,"Often activates spray preset 1 (e.g., Type I fluid at a defined temperature and pressure)."
 19_BoomContrlF2,F2,Cam_19_BoomContrlF2,callout,"Usually toggles spray preset 2 (e.g., switching to Type IV fluid or changing spray pattern)."

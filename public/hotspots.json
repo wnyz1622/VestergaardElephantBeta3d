@@ -99,13 +99,13 @@
   },
   {
     "node": "Cam_15_BasketView",
-    "title": "Basket Interior",
+    "title": "Operators Cabin",
     "camera": "Cam_15_BasketView",
     "type": "camera"
   },
   {
     "node": "Cam_16_CabinView",
-    "title": "Cabin Interior",
+    "title": "Chassis Cabin",
     "camera": "Cam_16_CabinView",
     "type": "camera"
   },
