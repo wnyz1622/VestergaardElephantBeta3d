@@ -347,7 +347,7 @@ class HotspotManager {
             };
 
 
-            const modelPath = 'media/model/compressed_1753896219932_ElephantBeta_v7.glb';
+            const modelPath = 'media/model/compressed_1753896219932_ElephantBeta_v8.glb';
             console.log('Loading model from:', modelPath);
 
             // this.loader.load(modelPath, (gltf) => {
